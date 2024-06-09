@@ -1,7 +1,7 @@
 {
     "domain": "chuffnuggets_first_integration",
     "name": "Chuffnuggets First Integration",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "documentation": "https://github.com/Chuffnugget/chuffnuggets_first_integration",
     "requirements": [],
     "dependencies": [],

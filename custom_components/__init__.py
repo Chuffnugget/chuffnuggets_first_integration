@@ -1,12 +1,12 @@
 """Chuffnuggets First Integration."""
 
-import asyncio
 import logging
 
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 
-DOMAIN = "chuffnuggets_first_integration"
+from .const import DOMAIN
+
 _LOGGER = logging.getLogger(__name__)
 
 async def async_setup(hass: HomeAssistant, config: dict):
