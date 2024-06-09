@@ -1,10 +1,11 @@
 {
     "domain": "chuffnuggets_first_integration",
     "name": "Chuffnuggets First Integration",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "documentation": "https://github.com/Chuffnugget/chuffnuggets_first_integration",
     "requirements": [],
     "dependencies": [],
-    "codeowners": ["@Chuffnugget"]
+    "codeowners": ["@Chuffnugget"],
+    "config_flow": true
   }
   
